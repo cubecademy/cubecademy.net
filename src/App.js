@@ -42,6 +42,7 @@ function App() {
         <img
           src="/BackgroundTemp.PNG"
           style={{ width: "50%", marginBottom: "2rem", height: "50%" }}
+          alt="workshop one"
         />
       </section>
     </>
